@@ -60,3 +60,13 @@ Examples:
 Timezone
 Currency
 Default grading system
+
+
+
+
+jdbc:postgresql://db.fdenipvnbiahbwxigsmd.supabase.co:5432/acadence?user=postgres&password=z.p4a8vYr6x5LJx
+
+
+jdbc:postgresql://db.fdenipvnbiahbwxigsmd.supabase.co:5432/postgres?user=postgres&password=z.p4a8vYr6x5LJx
+
+jdbc:postgresql://db.fdenipvnbiahbwxigsmd.supabase.co:5432/postgres?user=postgres&password=[YOUR-PASSWORD]

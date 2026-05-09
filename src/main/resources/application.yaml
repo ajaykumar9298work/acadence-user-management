@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: acadence-user-management
+  banner:
+    location: classpath:banner.txt
+  profiles:
+    active: local
+server:
+  port: 8892
+
+# Enable or disable authentication
+security:
+  authentication-enabled: true
